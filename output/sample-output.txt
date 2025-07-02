@@ -1,0 +1,9 @@
+=== Sample Output: Longest Palindromic Substring ===
+
+Input: babad
+
+Output using Dynamic Programming:
+bab
+
+Output using Manacher’s Algorithm:
+aba
