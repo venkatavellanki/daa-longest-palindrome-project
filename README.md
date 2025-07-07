@@ -26,11 +26,6 @@ Two algorithms are used to solve the same problem and compared in terms of logic
 
 ## ▶️ Sample Output
 
-
-## 🧠 Team Members
-- V. Venkat Aditya — RA2111003011799  
-- K. Jayanth — RA2111003011802
-
 ## 📚 Course Info
 - Design and Analysis of Algorithms (18CSC204J)
 - SRM Institute of Science and Technology
